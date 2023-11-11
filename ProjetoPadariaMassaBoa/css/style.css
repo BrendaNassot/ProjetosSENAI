@@ -1,0 +1,115 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: white;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FFDEAD;
+    text-align: center;
+}
+
+.logo img {
+  width: 200px; /* Largura da imagem do logo, ajuste conforme necessário */
+  height: auto; /* Mantém a proporção da imagem */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 30;
+    background-color: #5E3208;
+    font-weight: bold;
+}
+
+nav li {
+    display: inline;
+    margin: 30px;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    background-color: #5E3208;
+    
+}
+
+section {
+    padding: 10px;
+    background-color: #5E3208;
+}
+
+marquee {
+    font-size: 16px;
+    color: caramel;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+}
+    
+.cardapio-item {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cardapio-item h3 {
+    margin: 0;
+    font-size: 20px;
+}
+
+.cardapio-item p {
+    margin: 0;
+}
+.cardapio-item img {
+    max-width: 100px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.preco {
+    color: brown;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#contato {
+    color: white; /* Define a cor do texto na seção de contatos para branco */
+}
+
+/* Define a cor do texto para os elementos dentro da seção de contatos */
+#contato p {
+    color: white;
+}
+
+/* Define a cor do texto para os rótulos do formulário */
+#contato label {
+    color: white;
+}
+    
+
+
+.contato-info {
+    flex: 1;
+    color: white;
+}
+
+.contato-form {
+    flex: 1;
+    color: white;
+}
+
+
+.footer_link {
+    text-decoration: none;
+    background-color: #FFDEAD;
+    text-align: center;
+    padding: 20px;
+    color: #5E3208;
+  
