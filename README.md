@@ -14,16 +14,3 @@ Projetos de teste e avaliação desenvolvidos a partir do aprendizado em curso d
 
 - [Projeto Padaria MassaBoa](#projetopadariamassaboa)
 
-## Redes Sociais
-
-- [LinkedIn](#linkedin)
-- [Outra Rede Social](#outra-rede-social)
-
-## Minha Turma
-
-- [Yuri](#nome-do-aluno-1)
-- [Carla](#nome-do-aluno-2)
-
-
-### ProjetoPadaria
-
